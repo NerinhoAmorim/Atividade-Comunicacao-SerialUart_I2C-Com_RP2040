@@ -40,6 +40,8 @@ add_executable(BitDogLab_I2C BitDogLab_I2C.c )
 pico_set_program_name(BitDogLab_I2C "BitDogLab_I2C")
 pico_set_program_version(BitDogLab_I2C "0.1")
 
+pico_generate_pio_header(BitDogLab_I2C ${CMAKE_CURRENT_LIST_DIR}/pio_matrix.pio)
+
 # Modify the below lines to enable/disable output over UART/USB
 pico_enable_stdio_uart(BitDogLab_I2C 1)
 pico_enable_stdio_usb(BitDogLab_I2C 1)
@@ -55,6 +57,9 @@ target_include_directories(BitDogLab_I2C PRIVATE
 
 # Add any user requested libraries
 target_link_libraries(BitDogLab_I2C 
+        hardware_pio
+        hardware_i2c
+        hardware_uart
         
         )
 
