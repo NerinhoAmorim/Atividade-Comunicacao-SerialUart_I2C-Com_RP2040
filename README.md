@@ -50,7 +50,7 @@ Neste projeto, você deverá utilizar os seguintes componentes conectados à pla
 6. **Organização do código**: O código deve estar bem estruturado e comentado para facilitar o entendimento.
 
 ## 🔗 Links Relevantes
-- **[Repositório GitHub](https://github.com/NerinhoAmorim/Comunica-o-Serial-Com-RP2040.git)**
+- **[Repositório GitHub](https://github.com/NerinhoAmorim/Atividade-Comunicacao-SerialUart_I2C-Com_RP2040.git)**
 - **[Vídeo de Apresentação](#) (inserir link do vídeo aqui)**
 
 ## 👨‍💻 Autor
