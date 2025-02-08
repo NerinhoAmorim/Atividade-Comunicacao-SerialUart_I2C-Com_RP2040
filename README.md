@@ -1,4 +1,4 @@
-```markdown
+
 # Projeto de Comunicação Serial com RP2040 e BitDogLab
 
 ## 🎯 Objetivos
@@ -72,7 +72,7 @@ Neste projeto, você deverá utilizar os seguintes componentes conectados à pla
    - Digite caracteres no Serial Monitor e observe o comportamento no display SSD1306 e na matriz de LEDs WS2812.
    - Pressione os botões A e B para testar a alternância dos LEDs RGB e observe as mensagens exibidas no display e enviadas ao Serial Monitor.
 
----
+
 
 ## 🔗 Links Relevantes
 - **Repositório:**[Repositório GitHub](https://github.com/NerinhoAmorim/Atividade-Comunicacao-SerialUart_I2C-Com_RP2040.git)
