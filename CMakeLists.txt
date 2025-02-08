@@ -35,7 +35,11 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(BitDogLab_I2C BitDogLab_I2C.c include/ssd1306.c )
+add_executable(BitDogLab_I2C BitDogLab_I2C.c include/ssd1306.c
+                                             include/frames.c 
+                                             include/botoes.c 
+                                             include/led_matrix.c
+                                             include/leds.c)
 
 pico_set_program_name(BitDogLab_I2C "BitDogLab_I2C")
 pico_set_program_version(BitDogLab_I2C "0.1")
