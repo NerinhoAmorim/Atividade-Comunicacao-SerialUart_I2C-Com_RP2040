@@ -75,8 +75,8 @@ Neste projeto, você deverá utilizar os seguintes componentes conectados à pla
 ---
 
 ## 🔗 Links Relevantes
-- **[Repositório GitHub](https://github.com/NerinhoAmorim/Atividade-Comunicacao-SerialUart_I2C-Com_RP2040.git)**
-- **[Vídeo de Apresentação](https://vimeo.com/1054789934?share=copy)**
+- **Repositório:**[Repositório GitHub](https://github.com/NerinhoAmorim/Atividade-Comunicacao-SerialUart_I2C-Com_RP2040.git)
+   🔗 [Vídeo Apresentação:](https://vimeo.com/1054789934?share=copy)
 
 ## 👨‍💻 Autor
 **Nerinho Amorim**
